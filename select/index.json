@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "DARK GAME",
+  "base_artist": "muque",
+  "createdAt": "2026-03-28T17:11:21.716033Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "DARK GAME",
+      "artist": "muque",
+      "has_synced": false,
+      "path": "select/pl_01_DARK_GAME_muque.txt"
+    }
+  ]
+}
